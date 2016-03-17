@@ -142,10 +142,7 @@ Liste des étudiants ayant réussi ce TP
 * Clement DOSDA,
 * Valentin BONINO,
 * Baptiste LOMBARDO,
-<<<<<<< HEAD
 * Damien TROUBLAT,
-* Elsa BASSI.
-=======
+* Elsa BASSI,
 * Etienne JACQUOT,
 * Etienne CUNIN.
->>>>>>> 480a53f85755f3a853ec8c0b17163a6b879d6d25
